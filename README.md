@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 5-9.4.2021  
 **Name:** Nizam Dogan  
 **Surname:** Cinar  
 **Email:** doganccinar@gmail.com  
